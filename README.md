@@ -1,6 +1,8 @@
 # Task Management System (BST Implementation in C)
 
 Author: Omar Shoubaki  
+Birzeit University  
+Electrical and Computer Engineering Department
 
 
 ## Project Overview
